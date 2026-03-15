@@ -1,0 +1,76 @@
+$id,userId,qualityTier,pricePaid,paymentStatus,paymentMethod,transactionDate,currency,discountApplied,billingAddress
+P001,C060,4K,765.3825,completed,debitCard,2026-02-15T06:44:13.473+00:00,ami,TRUE,57523 Bernhard Dale
+P002,C006,standard,855.926,refunded,debitCard,2025-08-29T01:47:48.458+00:00,cur,TRUE,5721 W Pine Street
+P003,C063,standard,355.5178,refunded,paypal,2026-02-19T22:15:43.320+00:00,cru,FALSE,2315 Pine Grove
+P004,C082,standard,197.5391,pending,creditCard,2025-06-24T04:50:16.992+00:00,abs,TRUE,32964 2nd Avenue
+P005,C032,standard,312.0467,failed,paypal,2025-05-27T14:26:00.489+00:00,vol,TRUE,94004 Barton Brooks
+P006,C014,highDefinition,56.2712,failed,bankTransfer,2025-12-17T13:25:49.686+00:00,con,FALSE,224 Nienow Greens
+P007,C015,4K,566.676,completed,creditCard,2026-02-06T14:37:14.385+00:00,vir,TRUE,541 Block Park
+P008,C016,highDefinition,762.3645,completed,paypal,2025-07-22T12:34:03.461+00:00,cli,FALSE,854 Station Road
+P009,C017,standard,176.1623,pending,creditCard,2025-06-06T18:33:55.251+00:00,abd,FALSE,16421 Rossie Ferry
+P010,C018,4K,836.2658,refunded,debitCard,2025-03-18T19:17:36.153+00:00,ara,FALSE,1920 Strosin Camp
+P011,C019,standard,622.5588,pending,bankTransfer,2025-08-07T14:53:15.657+00:00,cir,TRUE,28902 Heidenreich Summit
+P012,C020,4K,156.3214,refunded,creditCard,2026-01-12T02:43:04.840+00:00,adv,FALSE,2234 Nola Coves
+P013,C021,4K,271.5056,completed,creditCard,2025-09-04T20:40:38.339+00:00,tot,FALSE,81696 Gordon Road
+P014,C022,standard,768.2416,completed,creditCard,2025-11-14T19:34:38.995+00:00,con,TRUE,5697 Manor Gardens
+P015,C023,4K,221.4096,failed,debitCard,2026-01-27T09:11:57.826+00:00,ang,TRUE,2827 Kaia Glen
+P016,C024,4K,934.1287,refunded,paypal,2026-03-13T08:08:48.293+00:00,cur,TRUE,1074 Marianna Valley
+P017,C025,4K,340.8502,refunded,debitCard,2025-12-05T07:04:40.391+00:00,aes,FALSE,4297 Krajcik Highway
+P018,C026,highDefinition,180.1951,refunded,debitCard,2025-07-11T23:17:29.965+00:00,ves,TRUE,6122 Klein Valleys
+P019,C027,highDefinition,701.4351,pending,paypal,2025-11-08T21:40:27.166+00:00,inf,FALSE,2355 Little Flat
+P020,C028,highDefinition,892.121,refunded,debitCard,2026-01-29T18:15:10.604+00:00,ago,TRUE,37874 Friesen Ramp
+P021,C125,4K,162.4072,failed,paypal,2025-05-10T09:50:19.667+00:00,ami,TRUE,1202 Elsa Stream
+P022,C030,highDefinition,636.8219,pending,paypal,2026-01-06T11:36:47.418+00:00,dig,FALSE,8457 Park Drive
+P023,C031,4K,66.8436,completed,debitCard,2025-07-20T10:33:16.069+00:00,ute,FALSE,16891 Lake Drive
+P024,C032,highDefinition,921.1769,completed,creditCard,2025-07-19T08:51:47.086+00:00,sol,FALSE,95209 Kulas Knolls
+P025,C033,highDefinition,175.0654,completed,bankTransfer,2025-12-16T15:16:37.618+00:00,con,TRUE,78082 Arne Meadow
+P026,C034,highDefinition,140.9887,pending,creditCard,2025-04-12T18:11:01.311+00:00,ist,TRUE,1069 Connelly Ford
+P027,C035,standard,509.5827,failed,creditCard,2025-04-02T00:07:29.196+00:00,tan,FALSE,2040 Lucio Walk
+P028,C036,4K,722.7629,failed,creditCard,2025-08-28T19:18:51.548+00:00,vae,FALSE,9188 S Central Avenue
+P029,C037,standard,401.3404,failed,debitCard,2025-09-16T19:37:53.703+00:00,cam,FALSE,9832 Abshire Cliffs
+P030,C038,standard,532.2794,pending,creditCard,2025-04-25T11:24:11.563+00:00,sti,FALSE,28748 Schuppe Fort
+P031,C039,highDefinition,127.3398,completed,paypal,2025-10-17T07:10:50.385+00:00,civ,FALSE,8983 Price Dale
+P032,C040,standard,326.0943,failed,bankTransfer,2025-12-30T20:57:41.321+00:00,sup,FALSE,6695 Nader Loop
+P033,C041,standard,918.177,pending,debitCard,2025-12-03T20:25:01.036+00:00,vol,FALSE,3445 Schumm Square
+P034,C042,standard,946.2959,refunded,bankTransfer,2025-05-06T16:49:28.186+00:00,ist,TRUE,941 Jessyca Greens
+P035,C043,standard,880.9395,pending,creditCard,2026-02-28T18:52:11.031+00:00,cib,FALSE,631 Tristin Point
+P036,C044,standard,482.9043,failed,debitCard,2026-03-12T14:36:51.894+00:00,ali,TRUE,87281 Herzog Ranch
+P037,C045,standard,267.6184,failed,creditCard,2025-04-12T00:12:49.695+00:00,adi,FALSE,673 Heller Groves
+P038,C046,standard,715.1536,refunded,bankTransfer,2025-06-04T12:30:52.018+00:00,dem,TRUE,12657 Jimmie Wall
+P039,C047,4K,277.8899,completed,paypal,2025-09-29T16:27:10.457+00:00,vol,TRUE,346 Rod Curve
+P040,C048,highDefinition,491.5497,pending,bankTransfer,2025-12-15T19:01:18.560+00:00,ang,FALSE,22087 Olin Pines
+P041,C049,4K,140.7192,pending,debitCard,2025-09-20T21:17:26.620+00:00,min,TRUE,988 Lexie Motorway
+P042,C870,4K,229.8679,failed,bankTransfer,2025-07-28T08:20:19.210+00:00,tut,TRUE,529 Kole Key
+P043,C051,highDefinition,404.3372,completed,bankTransfer,2025-11-26T21:40:28.352+00:00,sol,TRUE,153 Priory Close
+P044,C052,highDefinition,468.5663,pending,creditCard,2025-05-10T03:31:21.431+00:00,asc,FALSE,9382 The Laurels
+P045,C053,highDefinition,41.102,refunded,paypal,2026-01-07T16:03:30.879+00:00,aci,TRUE,64500 Jaylin Keys
+P046,C054,highDefinition,616.5762,pending,bankTransfer,2025-08-23T06:43:46.806+00:00,vac,FALSE,24308 Royal Crossroad
+P047,C055,4K,804.9105,completed,paypal,2025-12-11T13:06:01.898+00:00,adh,TRUE,525 Domenica Mills
+P048,C056,highDefinition,680.5248,failed,debitCard,2025-05-14T10:45:24.793+00:00,aux,FALSE,56525 Kertzmann Dam
+P049,C057,4K,205.5402,completed,creditCard,2025-11-17T12:22:40.722+00:00,cal,FALSE,650 Mayfield Road
+P050,C058,4K,523.7481,refunded,creditCard,2025-05-08T17:28:53.510+00:00,con,TRUE,4920 Nicolette Islands
+P051,C059,highDefinition,591.5762,completed,debitCard,2025-03-28T15:24:59.956+00:00,con,FALSE,6723 Jackson Street
+P052,C060,highDefinition,339.6685,completed,bankTransfer,2025-06-14T15:44:53.723+00:00,abs,TRUE,616 Schaefer Groves
+P053,C061,highDefinition,940.1697,completed,debitCard,2025-07-05T08:52:18.144+00:00,con,TRUE,882 N Washington Street
+P054,C062,standard,455.1878,failed,debitCard,2025-05-17T22:03:59.481+00:00,utp,TRUE,80542 Powlowski Ridges
+P055,C063,4K,840.7183,completed,bankTransfer,2026-03-01T15:25:57.894+00:00,ter,TRUE,4792 Church Road
+P056,C064,highDefinition,943.1955,refunded,paypal,2025-10-07T16:28:53.071+00:00,ius,FALSE,96389 Weimann Forges
+P057,C065,standard,853.199,pending,paypal,2025-12-31T05:24:46.993+00:00,vad,FALSE,921 Chadd Hollow
+P058,C066,4K,286.3963,failed,debitCard,2025-05-01T16:51:42.124+00:00,eiu,FALSE,50878 Hilma Prairie
+P059,C067,highDefinition,274.6134,failed,paypal,2026-01-09T20:45:17.640+00:00,ten,TRUE,616 Etha Trafficway
+P060,C068,standard,879.9425,refunded,paypal,2026-02-04T04:41:33.777+00:00,ute,FALSE,1393 Rectory Lane
+P061,C069,highDefinition,751.9062,failed,creditCard,2025-09-20T21:44:38.069+00:00,the,FALSE,303 Elmo Passage
+P062,C070,standard,378.3429,completed,paypal,2025-05-23T02:09:18.158+00:00,veh,TRUE,13998 Kathleen Bypass
+P063,C071,4K,255.1318,completed,debitCard,2025-11-23T00:46:30.798+00:00,cet,TRUE,972 Fredy Cliff
+P064,C072,standard,73.664,pending,bankTransfer,2025-06-13T07:56:52.368+00:00,sum,FALSE,8673 Jedediah Pike
+P065,C459,highDefinition,657.0383,pending,paypal,2025-11-06T11:13:30.190+00:00,cur,TRUE,67084 Cleta Bypass
+P066,C074,4K,774.0137,refunded,debitCard,2025-07-05T17:22:22.707+00:00,arc,FALSE,43416 Toy Drive
+P067,C075,highDefinition,310.3387,completed,creditCard,2025-09-21T19:05:23.089+00:00,com,TRUE,878 Hane Loop
+P068,C076,highDefinition,76.419,completed,debitCard,2026-03-02T09:32:31.273+00:00,vid,FALSE,81567 Hill Road
+P069,C077,4K,162.3674,completed,debitCard,2026-01-24T17:36:53.219+00:00,coe,FALSE,68791 Church Hill
+P070,C078,highDefinition,753.6092,refunded,bankTransfer,2025-07-21T23:57:01.789+00:00,car,TRUE,88683 Hazel Grove
+P071,C079,4K,287.1337,refunded,creditCard,2025-08-31T12:17:05.774+00:00,rat,FALSE,8930 Oak Lane
+P072,C080,highDefinition,171.8805,completed,creditCard,2025-09-06T19:39:00.502+00:00,cas,FALSE,98003 Riverside
+P073,C081,4K,305.0737,pending,bankTransfer,2025-09-22T16:03:32.822+00:00,dis,TRUE,90468 Autumn Parkways
+P074,C082,4K,100.9128,failed,debitCard,2025-07-28T23:56:48.810+00:00,cre,TRUE,23681 Lizzie Park
+P075,C248,standard,267.6139,refunded,debitCard,2025-11-21T21:50:41.303+00:00,cur,FALSE,847 State Line Road
